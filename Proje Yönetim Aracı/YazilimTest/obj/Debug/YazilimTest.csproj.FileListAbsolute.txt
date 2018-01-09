@@ -1,0 +1,22 @@
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazilimTest\obj\Debug\YazilimTest.csprojResolveAssemblyReference.cache
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazilimTest\bin\Debug\YazilimTest.dll
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazilimTest\bin\Debug\YazilimTest.pdb
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazilimTest\bin\Debug\YazılımSınamaProje.exe
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazilimTest\bin\Debug\YazılımSınamaProje.pdb
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazilimTest\obj\Debug\YazilimTest.dll
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazilimTest\obj\Debug\YazilimTest.pdb
+C:\Users\beritan\Desktop\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\bin\Debug\YazilimTest.dll
+C:\Users\beritan\Desktop\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\bin\Debug\YazilimTest.pdb
+C:\Users\beritan\Desktop\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\bin\Debug\YazılımSınamaProje.exe
+C:\Users\beritan\Desktop\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\bin\Debug\YazılımSınamaProje.pdb
+C:\Users\beritan\Desktop\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\obj\Debug\YazilimTest.csprojResolveAssemblyReference.cache
+C:\Users\beritan\Desktop\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\obj\Debug\YazilimTest.dll
+C:\Users\beritan\Desktop\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\obj\Debug\YazilimTest.pdb
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\bin\Debug\YazilimTest.dll
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\bin\Debug\YazilimTest.pdb
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\bin\Debug\YazılımSınamaProje.exe
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\bin\Debug\YazılımSınamaProje.pdb
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\obj\Debug\YazilimTest.csprojResolveAssemblyReference.cache
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\obj\Debug\YazilimTest.dll
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\obj\Debug\YazilimTest.pdb
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazilimTest\bin\Debug\Microsoft.SqlServer.Types.dll

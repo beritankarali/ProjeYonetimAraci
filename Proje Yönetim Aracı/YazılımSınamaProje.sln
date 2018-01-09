@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazılımSınamaProje", "YazılımSınamaProje\YazılımSınamaProje.csproj", "{7069A9B6-52D6-4E2A-8C37-DB246081FED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazilimTest", "YazilimTest\YazilimTest.csproj", "{2C06DB55-C216-4F79-A7F4-89BF47AB438B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7069A9B6-52D6-4E2A-8C37-DB246081FED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7069A9B6-52D6-4E2A-8C37-DB246081FED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7069A9B6-52D6-4E2A-8C37-DB246081FED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7069A9B6-52D6-4E2A-8C37-DB246081FED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C06DB55-C216-4F79-A7F4-89BF47AB438B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C06DB55-C216-4F79-A7F4-89BF47AB438B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C06DB55-C216-4F79-A7F4-89BF47AB438B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C06DB55-C216-4F79-A7F4-89BF47AB438B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

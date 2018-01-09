@@ -1,0 +1,26 @@
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazılımSınamaProje\bin\Debug\YazılımSınamaProje.exe.config
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazılımSınamaProje\bin\Debug\YazılımSınamaProje.exe
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazılımSınamaProje\bin\Debug\YazılımSınamaProje.pdb
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.frmProjeYonetimAraci.resources
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.Properties.Resources.resources
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.csproj.GenerateResource.Cache
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.exe
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.pdb
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\RdlCompile.cache
+C:\Users\beritan\Desktop\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\RdlCompile.compiled
+C:\Users\beritan\Desktop\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\bin\Debug\YazılımSınamaProje.exe.config
+C:\Users\beritan\Desktop\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.exe
+C:\Users\beritan\Desktop\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.pdb
+C:\Users\beritan\Desktop\Dersler\3.sınıf 1.dönem\Yazılım Sınama\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\bin\Debug\YazılımSınamaProje.exe.config
+C:\Users\beritan\Desktop\Dersler\3.sınıf 1.dönem\Yazılım Sınama\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.exe
+C:\Users\beritan\Desktop\Dersler\3.sınıf 1.dönem\Yazılım Sınama\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.pdb
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\bin\Debug\YazılımSınamaProje.exe.config
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.exe
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.pdb
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.csprojResolveAssemblyReference.cache
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.frmProjeYonetimAraci.resources
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.Properties.Resources.resources
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\obj\Debug\YazılımSınamaProje.csproj.GenerateResource.Cache
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\bin\Debug\YazılımSınamaProje.exe
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\bin\Debug\YazılımSınamaProje.pdb
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 1.dönem\Projeler\Yazılım Sınama Proje\YazılımSınamaProje\YazılımSınamaProje\bin\Debug\Microsoft.SqlServer.Types.dll
